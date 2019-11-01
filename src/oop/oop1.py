@@ -30,10 +30,10 @@ class FlightVehicle(Vehicle):
     pass
 
 #subclasses of GroundVehicle
-class Motorcyle(GroundVehicle):
+class Car(GroundVehicle):
     pass
 
-class Car(GroundVehicle):
+class Motorcycle(GroundVehicle):
     pass
 
 #subclasses of FlightVehicle:
